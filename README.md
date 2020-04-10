@@ -1,5 +1,5 @@
 # OpenLaw Smart Clauses 📜
-List of Smart Clauses curated by OpenLaw team: 
+List of Clever Clauses curated by OpenLaw team: 
 
 ## Terms ⚖️
 
