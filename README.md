@@ -1,4 +1,4 @@
-# OpenLaw Smart Clauses 📜
+# OpenLaw Clever Clauses 📜
 List of Clever Clauses curated by OpenLaw team: 
 
 ## Terms ⚖️
