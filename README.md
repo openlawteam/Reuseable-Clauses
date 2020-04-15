@@ -1,4 +1,4 @@
-# OpenLaw Clever Clauses 📜
+# OpenLaw Reuseable Clauses 📜
 List of Reuseable Clauses curated by OpenLaw team: 
 
 ## Terms ⚖️
