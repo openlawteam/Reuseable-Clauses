@@ -1,5 +1,5 @@
 # OpenLaw Clever Clauses 📜
-List of Clever Clauses curated by OpenLaw team: 
+List of Reuseable Clauses curated by OpenLaw team: 
 
 ## Terms ⚖️
 
